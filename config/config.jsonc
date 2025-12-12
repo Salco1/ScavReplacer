@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "fromWildSpawnTypes": ["assault", "marksman"],
+  "toWildSpawnType": "pmcBot",
+  "patchWaves": true,
+  "patchMinMaxBots": true,
+  "onlyMaps": [],
+  "excludeMaps": []
+}
